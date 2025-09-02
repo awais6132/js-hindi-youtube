@@ -19,3 +19,14 @@ console.log(inBoolean);
 // 1 => true ; 0 => fasle 
 // "" => false 
 // "Awais" => true
+
+
+//let someNumber = 11;
+//console.log(typeof someNumber)
+//let stringSomeNumber = string (someNumber);
+//console.log (stringSomeNumber);
+//console.log (typeof stringSomeNumber);
+
+//********* Operation *********/
+
+console.log(1 + 2 - 3 * 4 % 5)
