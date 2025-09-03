@@ -27,3 +27,16 @@ const heors = ["quaid" , "Aqbal" , "zia"]
  const myFunction = function(){
     console.log("hello world");
  } 
+
+ //**************** */
+
+  // Stack (Primitive )  , Heap (Non-Primitive)
+
+
+  let myYoutubename = "awais@gmail.com"
+
+  let anothername = myYoutubename
+anothername = "awaisali@gmail.com"
+
+console.log (anothername);
+console.log (myYoutubename);
